@@ -1,0 +1,169 @@
+#d1{
+    width: 600px;
+    height: 400px;
+}
+#d2{
+    width: 600px;
+    height: 80px;
+}
+#d3{
+    width: 150px;
+    height: 80px;
+    background-color: aqua;
+    float: left;
+}
+#d4{
+    width: 300px;
+    height: 80px;
+    background-color: blueviolet;
+    float: left;
+}
+#d5{
+    width: 150px;
+    height: 80px;
+    float: right;
+}
+#d6{
+    width: 150px;
+    height: 40px;
+    background-color: yellow;
+}
+#d7{
+    width: 150px;
+    height: 40px;
+}
+#d8{
+    height: 320px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+#d9{
+    height: 320px;
+    width: 450px;
+    background-color: violet;
+    float: right;
+}
+#d10{
+    height: 220px;
+    width: 150px;
+}
+#d11{
+    height: 100px;
+    width: 150px;
+    background-color: blue;
+}
+#d12{
+    height: 100px;
+    width: 75px;
+    float: left;
+}
+#d13{
+    height: 100px;
+    width: 75px;
+    float: right;
+    background-color: brown;
+}
+#d14{
+    height: 80px;
+    width: 450px;
+}
+#d15{
+    height: 240px;
+    width: 100px;
+    float: left;
+    background-color: darkcyan;
+}
+#d16{
+    height: 240px;
+    width: 100px;
+    float: left;
+    background-color: darkgray;
+}
+#d17{
+    height: 240px;
+    width: 250px;
+    float: right;
+    background-color: darkolivegreen;
+}
+#d151{
+    height: 140px;
+    width: 50px;
+    float: left;
+    background-color: orange;
+}
+#d152{
+    height: 140px;
+    width: 50px;
+    float: right;
+    background-color: blue;
+}
+#d171{
+    height: 80px;
+    width: 450px;
+}
+#d172{
+    height: 160px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+#d173{
+    height: 160px;
+    width: 50px;
+    float: left;
+    background-color: darkturquoise;
+}
+#d174{
+    height: 160px;
+    width: 100px;
+    float: right;
+    background-color: darkred;
+}
+#d1721{
+    height: 80px;
+    width: 100px;
+}
+#d1722{
+    height: 80px;
+    width: 50px;
+    float: left;
+    background-color: hotpink;
+}
+#d1723{
+    height: 80px;
+    width: 50px;
+    float: right;
+    background-color: peru;
+}
+#d1741{
+    height: 80px;
+    width: 100px;
+}
+#d1742{
+    height: 80px;
+    width: 50px;
+    float: left;
+    background-color: forestgreen;
+}
+#d1743{
+    height: 80px;
+    width: 50px;
+    float: right;
+    background-color: rgb(32, 145, 183);
+}
+#d71{
+    width: 75px;
+                    height: 40px;
+                    background-color: red;
+                    float: left;
+}
+#d72{
+    width: 75px;
+                    height: 40px;
+                    background-color: brown;
+                    float: right;
+}
+#div2{
+    height: 320px;width: 600px;
+}

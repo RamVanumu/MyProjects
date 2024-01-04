@@ -1,0 +1,170 @@
+.page1{
+    height: 800px;
+    width: 100%;
+    background-image: url(page1bg.jpg);
+    background-size: cover;
+    padding: 1px;
+}
+.b1{
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 250px;
+}
+button{
+    width: 170px;
+    height: 60px;
+    border: none;
+    background-color: rgb(0, 119, 255);
+    border-radius: 6px;
+    font-family: Oswald;
+    font-weight: bolder;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.b2{
+    width: 1200px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.g1{
+    height: 400px;
+    width: 400px;
+    background-color: lightgrey;
+    float: left;
+}
+.g2{
+    height: 400px;
+    width: 400px;
+    background-color: grey;
+    float: left;
+}
+.g3{
+    height: 400px;
+    width: 400px;
+    background-color: darkgray;
+    float: right;
+}
+.i1{
+    height: 80px;
+    width: 100px;
+    margin-left: 170px;
+    margin-top: 60px;
+}
+.i2{
+    height: 80px;
+    width: 100px;
+    margin-left: 170px;
+    margin-top: 60px;
+}
+.i3{
+    height: 80px;
+    width: 100px;
+    margin-left: 170px;
+    margin-top: 60px;
+}
+.p2d1{
+    width: 500px;
+    height: 100px;
+    margin-left: 680px;
+}
+.page2{
+    width: 100%;
+    height: 300px;
+}
+.page3{
+    width: 100%;
+    height: 450px;
+}
+.half{
+    width: 800px;
+    height: 450px;
+    float: left;
+}
+.block1{
+    width: 800px;
+    height: 150px;
+}
+.i4{
+    margin-left: 120px;
+    float: left;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+.p3h1{
+    font-family: Oswald;font-size: 35px;
+}
+.p3p{
+    font-family: Nunito Sans;font-weight: bolder;font-size: 20px;
+}
+.p2p{
+    font-family: Nunito Sans;font-weight: bolder;text-align: center;font-size: 20px;
+}
+.p2h1{
+    font-family: Oswald;font-size: 35px;text-align: center;
+}
+.g3h4{
+    font-family: Nunito Sans;font-weight: bolder;text-align: center;
+}
+.g3h1{
+    font-family: Oswald;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.p1h1{
+    font-family: Oswald;font-size: 60px;font-weight: bolder;
+}
+.p1p{
+    font-family: Nunito Sans;font-weight: bolder;
+}
+.half{
+    float: left;
+}
+.block2{
+    float: right;
+    width: 600px;
+    height: 600px ;
+    background-image: url(bard4.png);
+    background-size: cover;
+    position: relative;
+}
+.page4{
+    margin-top: 150px;
+    width: 100%;
+    height: 500px;
+}
+.bard{
+    margin-left: 420px;
+}
+.bard1{
+    margin-top: 100px;
+    width: auto;
+    height: 450px;
+    margin-left: 120px;
+    float: left;
+}
+.h1{
+    font-family: Oswald;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 100px;
+}
+.h4{
+    font-family: Nunito Sans;
+    font-weight: bolder;
+
+}
+.lastpage{
+    background-color: gray;
+    width: 100%;
+    height: 100%;
+}
+input{
+    margin: 20px;
+    height: 50px;
+    width: 300px;
+}

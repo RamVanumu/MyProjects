@@ -1,0 +1,12 @@
+#mainDiv{
+    width: 1800px;
+    height: 850px;
+    border: 2px solid black;
+    margin: auto;
+}
+.innerDiv{
+    width: 23px;
+    height: 23px;
+    float: left;
+    border: 1px solid black;
+}
