@@ -1,12 +1,17 @@
-#mainDiv{
+#mainDiv {
     width: 1800px;
     height: 850px;
-    border: 2px solid black;
+    border: 1px solid black;
     margin: auto;
-}
-.innerDiv{
+  }
+
+  .subDiv {
     width: 23px;
     height: 23px;
-    float: left;
+    background-color: blue;
     border: 1px solid black;
-}
+    float: left;
+  }
+  .selected {
+    background-color: red !important;
+  }

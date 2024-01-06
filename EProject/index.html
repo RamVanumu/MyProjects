@@ -1,24 +1,11 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <title>Creating Subdivs</title>
 </head>
 <body>
-    <div id="mainDiv">
-    </div>
-    <script>
-        const mainGridContainer = document.getElementById("mainDiv");
-
-for (let i = 1; i < 2449; i++) {
-  const innerDiv = document.createElement("div");
-  innerDiv.className = "innerDiv"; // Assign the class name
-  innerDiv.id = `grid-${i}`; // Create the id with "grid-" prefix and i value
-  mainGridContainer.appendChild(innerDiv);
-}
-
-
-    </script>  
+  <div id="mainDiv"></div>
+  <script src="script.js"></script>
 </body>
 </html>

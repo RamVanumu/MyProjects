@@ -1,0 +1,21 @@
+img{
+    width: 330px;
+    height: 450px;
+    position: absolute;
+}
+#k1{
+    top: 100px;
+    left: 100px;
+}#k2{
+    top: 200px;
+    left: 200px;
+}#k3{
+    top: 300px;
+    left: 300px;
+}#k4{
+    top: 400px;
+    left: 400px;
+}#k5{
+    top: 500px;
+    left: 500px;
+}
