@@ -1,5 +1,29 @@
 const mainDiv = document.getElementById('mainDiv');
 const selectedGrids = [];
+const horizontalGrids = 72;
+const verticalGrids = 34;
+const totalGrids = horizontalGrids * verticalGrids; // Total number of grids
+function isSquareSelection(selectedGrids) {
+  const selectedCount = selectedGrids.length;
+  
+  // Find the smaller dimension (minimum of horizontal and vertical grids)
+  const minDimension = Math.min(horizontalGrids, verticalGrids);
+  
+  // Check if the selected grids form an n * n square
+  if (selectedCount === minDimension ** 2) {
+    return true;
+  } else {
+    return false;
+  }
+}
+const result = isSquareSelection(selectedGrids);
+function resultis(){
+if (result) {
+  console.log("The selected grids form an n * n square.");
+} else {
+  console.log("The selected grids do not form an n * n square.");
+}
+}
 
 function handleGridClick(event) {
   const clickedGrid = event.target;

@@ -8,10 +8,11 @@
   .subDiv {
     width: 23px;
     height: 23px;
-    background-color: blue;
+    background-color: lightgreen;
     border: 1px solid black;
     float: left;
   }
   .selected {
-    background-color: red !important;
+    background-color: lightblue;
+    border-color: blue;
   }
