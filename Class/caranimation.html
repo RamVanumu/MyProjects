@@ -1,0 +1,48 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #main{
+            width: 1600px;
+            height: 800px;
+            background-color: lightblue;
+            margin: auto;
+        }
+        #up{
+            height: 200px;
+            width: 100%;
+            background-image: url(Roadup.jpg);
+            background-size: cover;
+            background-repeat: none;
+            animation-name: up;
+            animation-delay: 2s;
+            animation-iteration-count: infinite;
+        }
+        #down{
+            height: 600px;
+            width: 100%;
+            background-image: url(Roaddown.jpg);
+            background-size: cover;
+            background-repeat: none;
+        }
+        @keyframes up {
+            0%{
+                
+                margin-left: 1300px;
+            }
+            100%{
+            
+                margin-left: -1300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="main">
+        <div id="up"></div>
+        <div id="down"></div>
+    </div>
+</body>
+</html>
